@@ -1,0 +1,46 @@
+.firstbody{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://www.spacex.com/static/images/backgrounds-2022/ussf-44/post-launch/Homepage_Desktop.webp");
+    background-position: center;
+    background-size: cover;
+}
+
+
+.secondbody{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://www.spacex.com/static/images/backgrounds-2022/eutelsat-hotbird-13g/post-launch/Homepage_Desktop.webp");
+    background-position: center;
+    background-size: cover;
+
+}
+
+.button{
+    width: 150px;
+    height: 50px;
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+    border-color: white;
+}
+
+.thirdbody{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://www.spacex.com/static/images/backgrounds-2022/starship-update/S20_Chopstick_Stack_Desktop.webp");
+    background-position: center;
+    background-size: cover;
+}
+
+.forthbody{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://www.spacex.com/static/images/backgrounds-2021/hls-resized-2.webp");
+    background-position: center;
+    background-size: cover;
+}
+.footer{
+    width: 100%;
+    
+    background-color: black;
+}
